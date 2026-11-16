@@ -4,6 +4,8 @@
 
 Eine ruhige, analoge Uhr im Geist von Bauhaus und Dieter Rams.
 
+**Webseite: [takt-uhr.de](https://takt-uhr.de)**
+
 - Vollbild-Uhr mit sechs Farben, „Nachts dunkel“ nach Systemmodus, vier Bewegungen (Gleitend, Mechanik, Quarz, Bahnhof)
 - Menüleisten-Uhr, immer im Vordergrund, durchsichtig, magnetische Ecken, Autostart
 - Fokus-Timer direkt auf dem Zifferblatt
